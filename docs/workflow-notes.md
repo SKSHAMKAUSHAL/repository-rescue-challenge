@@ -2,9 +2,9 @@
 
 This repository is intentionally set up with repository history and branch workflow issues:
 
-- direct commits on `main`
-- poor commit messages
-- bad branch names
+- Donot direct commits on `main`
+- Make a proper and clear commit messages
+- Make a suitable  branch names
 - a branch with a merge conflict in `src/config.js`
 - an abandoned branch containing partial changes
 

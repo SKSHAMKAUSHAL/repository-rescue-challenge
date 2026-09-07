@@ -132,6 +132,9 @@ npm start
 
 * The application reads the port from `process.env.PORT` and falls back to `3000` if the variable is not provided.
 * The README intentionally contains an incorrect startup command to simulate environment drift.
+
+*Now , the application is running at port 3000 . By default it is running at 5000  
+
 * Follow safe Git practices throughout the exercise by performing development on feature branches and integrating changes through a Pull Request rather than committing directly to `main`.
 
 > Temporary test change on temp branch.
